@@ -11,13 +11,13 @@
 <a name="descripton"></a>
 ## Description
 
-Recent developments in quantum technology are bringing the world closer to a new technological revolution – the advent of usable quantum computers able to provide enormous acceleration to important computational tasks. In coming years, quantum computing is expected to have a huge impact on practically all areas of research that can utilise computational modelling.
+Recent developments in quantum technology are bringing the world closer to a new technological revolution – the advent of usable quantum computers able to provide enormous acceleration to important computational tasks. In the coming years, quantum computing is expected to have a huge impact on practically all areas of research that can utilize computational modeling.
 
-The NordΙQuEst project brings together a consortium of seven partners from five Nordic and Baltic countries to connect world-leading traditional HPC resources and quantum computers across national borders with the aim to establish a quantum computing platform customised to the needs of the region.
+The NordΙQuEst project brings together a consortium of seven partners from five Nordic and Baltic countries to connect world-leading traditional HPC resources and quantum computers across national borders with the aim of establishing a quantum computing platform customized to the needs of the region.
 
 ENCCS joined forces with NordIQuEst to deliver two-day training workshops covering the fundamentals of quantum computing (QC), including:
 > - Introduction to key concepts: quantum states, qubits, quantum algorithms;
-> - QC programming in high-level languages for use cases in optimisation, finance and quantum chemistry followed by testing quantum programs to esure their correctness;
+> - QC programming in high-level languages for use cases in optimization, finance, and quantum chemistry followed by testing quantum programs to ensure their correctness;
 > - Overview of the main QC hardware approaches;
 > - Integration of QC with classical computing: hybrid classical/quantum algorithms and HPC-QC systems;
 > - Introduction to quantum software testing with Quito tool;
@@ -25,7 +25,7 @@ ENCCS joined forces with NordIQuEst to deliver two-day training workshops coveri
 <a name="information"></a>
 ## Information
 
-All necessary information, links, lesson slides and exercises for the workshop can be found [on the workshop website](https://hackmd.io/@enccs/qcomp-june2022) and on the workshop [on the workshop repository](https://enccs.github.io/NordIQuEst-workshop/)
+All necessary information, links, lesson slides, and exercises for the workshop can be found [on the workshop website](https://hackmd.io/@enccs/qcomp-june2022) and on the workshop [on the workshop repository](https://enccs.github.io/NordIQuEst-workshop/)
 
 Workshop moment 1          |  Workshop moment 2
 :-------------------------:|:-------------------------:
@@ -68,7 +68,7 @@ $ conda activate qcomp
 
 ### Quito
 
-First clone the repository:
+First, clone the repository:
 
 ```console
 $ git clone https://github.com/Simula-COMPLEX/quito.git
